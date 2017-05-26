@@ -1,6 +1,6 @@
 ## AltTab coding challenge
 
-!(finished.png)
+![mocha tests](/finished.png)
 
 ### You would need:
 * Node.js
