@@ -1,5 +1,7 @@
 ## AltTab coding challenge
 
+!(finished.png)
+
 ### You would need:
 * Node.js
 * MongoDB
